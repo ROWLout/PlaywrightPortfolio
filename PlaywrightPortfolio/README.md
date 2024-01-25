@@ -1,0 +1,1 @@
+This is a show case for UI test automation expertise using Playwright
